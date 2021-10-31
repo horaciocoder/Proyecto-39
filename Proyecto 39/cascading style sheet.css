@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Flubber Singular";
+    src: url("fonts/flubber.ttf");
+}
+body {
+    background-image: url("images/bg/bg.jpg");
+}
+h1 {
+    color: blue;
+    font-family: "Flubber Singular";
+    font-size: 3em;
+}
+p.author {
+    font-family: "Flubber Singular";
+    font-size: 1.5em;
+    color: #00FF00;
+}
+span {
+    font-size: 1.3em;
+    color: #FFFF00;
+    font-variant: small-caps;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
